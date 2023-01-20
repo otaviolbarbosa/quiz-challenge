@@ -14,6 +14,8 @@ Those are the steps you need to run this project.
 ```bash
 git clone https://github.com/otaviomorcegao/quiz-challenge.git
 
+cd quiz-challenge
+
 yarn install // or npm install
 
 yarn start // npm run start
